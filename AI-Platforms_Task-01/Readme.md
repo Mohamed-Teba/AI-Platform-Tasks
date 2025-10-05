@@ -62,5 +62,5 @@ Gradient: 0.004634
 ```
 
 ## 📄 License
-This project is open-source under the MIT License. See [LICENSE](LICENSE.txt) for details.
+This project is open-source under the MIT License. See [LICENSE](LICENSE.Txt) for details.
 
