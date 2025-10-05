@@ -11,17 +11,7 @@ A simple PyTorch-based neural network implementation demonstrating forward and b
 - **Interactive Demo**: Jupyter notebook with print statements for step-by-step visualization.
 
 ## 🛠️ Installation
-1. Clone the repo:
-   ```
-   git clone <your-repo-url>
-   cd your-project-folder
-   ```
-2. Create a virtual environment (recommended):
-   ```
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-3. Install dependencies:
+1. Install dependencies:
    ```
    pip install torch notebook
    ```
@@ -71,19 +61,6 @@ Backward pass:
 Gradient: 0.004634
 ```
 
-## 🤝 Contributing
-Feel free to fork, tweak the parameters, or add more layers! Pull requests welcome. 😊
-
-- Report issues: [Open an issue](https://github.com/your-username/your-repo/issues)
-- Suggestions: Star the repo if it helps! ⭐
-
 ## 📄 License
-This project is open-source under the MIT License. See [LICENSE](LICENSE) for details.
+This project is open-source under the MIT License. See [LICENSE](LICENSE.txt) for details.
 
----
-
-Built with ❤️ by [Your Name] | Last updated: October 2025
-
----
-
-**To download this as a .md file:** Copy the content above (starting from `# 🧠 Neural Graph Network Demo` to the end), paste it into a text editor (like Notepad or VS Code), and save the file as `README.md`. You can then use it in your GitHub repo or project folder! 💾
