@@ -41,23 +41,8 @@ Run individual tasks or explore the entire series! 📓
    ```
    jupyter notebook
    ```
-2. Open a task notebook (e.g., `AI_Platform_Task_01.ipynb`) and execute cells step-by-step.
+2. Open a task notebook.
 3. Experiment: Tweak parameters, add plots, or extend models to see changes in real-time.
-
-### Quick Start Example
-For Task 01 (Neural Graph Network):
-```python
-import torch
-import torch.nn as nn
-import torch.nn.functional as F
-
-# Load and run the model (see notebook for full code)
-model = Graph()  # Custom model class
-x = torch.tensor(2.0, requires_grad=True)
-y = model(x)
-y.backward()
-print(f"Output: {y.item():.4f}, Gradient: {x.grad.item():.6f}")
-```
 
 ### Repo Structure
 ```
@@ -76,25 +61,7 @@ Across tasks, expect detailed logs like:
 - Gradient computations
 - Loss curves (in later tasks)
 
-## 🤝 Contributing
-Love the project? Contribute by:
-- Adding new tasks or notebooks ✨
-- Fixing bugs or improving code 🐛
-- Suggesting enhancements via issues 💡
-
-1. Fork the repo and create a branch: `git checkout -b feature/amazing-task`
-2. Commit changes: `git commit -m "Add cool new task"`
-3. Push and open a PR! 🎉
-
 Report issues: [Open an issue](https://github.com/Mohamed-Teba/AI-Platform-Tasks/issues)
 
 ## 📄 License
-This project is open-source under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-Built with ❤️ by Mohamed Teba | Last updated: October 06, 2025 | Questions? Reach out! 😊
-
----
-
-**To download this as a .md file:** Copy the content above (starting from `# 🧠 AI Platform Tasks Repository` to the end), paste it into a text editor (like Notepad or VS Code), and save the file as `README.md`. Upload it to your GitHub repo! 💾
+This project is open-source under the MIT License. See [LICENSE](LICENSE.Txt) for details.
